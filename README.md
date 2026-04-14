@@ -36,7 +36,7 @@ SQLite requires zero configuration for development. PostgreSQL is used in produc
 ┌─────────────┐         ┌─────────────┐         ┌─────────────┐
 │    React    │ ──────► │    Flask    │ ──────► │   SQLite    │
 │  Frontend   │ ◄────── │   Backend   │ ◄────── │  Database   │
-│   :3000     │   JWT   │   :5000     │         │             │
+│   :5173     │   JWT   │   :5000     │         │             │
 └─────────────┘         └─────────────┘         └─────────────┘
 ```
 
